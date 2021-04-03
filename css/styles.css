@@ -1,25 +1,70 @@
 .container-fluid {
-	background-color: #BA2CE3;
+  background-color: #ba2ce3;
 }
 
-
 .logo {
-	
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .title-text {
-	font-family: 'Roboto Condensed', sans-serif;
-	color: #FFFFFF;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  color: #ba2ce3;
 }
 
 .navbar {
 	background-color: #FFC0E3;
 	padding: 10px;
+  width: 100%;
 }
 
+.margin-bottom-50 {
+  margin-bottom: 50px;
+}
 
+.float-right {
+  float: right;
+}
 
+body {
+  background-color: #fff0f0;
+}
+
+.brand-intro {
+  background-color: #ffdbef;
+}
+
+.btn-register {
+  background-color: #ba2ce3;
+  color: #ffdbef;
+  border: none;
+  width: 70%;
+  height: 50px;
+  line-height: 35px;
+}
+.btn-register:hover {
+  background-color: #ffc0e3;
+  color: #ba2ce3;
+  font-weight: bold;
+  border-radius: 1px;
+  border-color: #ba2ce3;
+  border-style: solid;
+  width: 70%;
+  height: 50px;
+  line-height: 30px;
+}
+.btn-register:active {
+  background-color: #d390b4;
+}
+
+.nav-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: larger;
+}
+
+.timetable img {
+  width: 80%;
+  margin: auto;
+}
