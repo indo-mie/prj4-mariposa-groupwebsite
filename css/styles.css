@@ -18,5 +18,11 @@
 
 .navbar {
 	background-color: #FFC0E3;
+	padding: 10px;
 }
 
+
+.timetable img {
+	width: 80%;
+	margin: auto;
+}
