@@ -16,7 +16,7 @@
 
 .navbar {
   width: 100%;
-  background-color: #FFC0E3;
+  background-color: #ffc0e3;
   padding: 10px;
 }
 
@@ -45,28 +45,26 @@ body {
   line-height: 35px;
 }
 .btn-register:hover {
-	background-color: #ffc0e3;
-	color: #ba2ce3;
-	font-weight: bold;
-	border-radius: 1px;
-	border-color: #ba2ce3;
-	border-style: solid;
-	width: 70%;
-	height: 50px;
-	line-height: 30px;
-  }
-  .btn-register:active {
-	background-color: #d390b4;
-  }
+  background-color: #ffc0e3;
+  color: #ba2ce3;
+  font-weight: bold;
+  border-radius: 1px;
+  border-color: #ba2ce3;
+  border-style: solid;
+  width: 70%;
+  height: 50px;
+  line-height: 30px;
+}
+.btn-register:active {
+  background-color: #d390b4;
+}
 
 .nav-text {
   font-family: 'Open Sans', sans-serif;
   font-size: larger;
-
 }
 
-
 .timetable img {
-	width: 80%;
-	margin: auto;
+  width: 80%;
+  margin: auto;
 }
